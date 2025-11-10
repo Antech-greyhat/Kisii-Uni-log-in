@@ -20,7 +20,7 @@ p{
     width: 100%;
     margin-left: auto;
     max-width: 400px;
-    margin-right: 15px;
+    margin-right: 100px;
     padding: 20px;
     background-color: hsl(0, 0%, 96%);
     border-radius: 10px;
@@ -30,7 +30,7 @@ p{
 }
 .header, .footer{
     margin-left: auto;
-    margin-right: 15px;
+    margin-right: 100px;
     width: 100%;
     max-width: 400px;
     text-align: center;
