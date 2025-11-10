@@ -99,7 +99,7 @@ img{
 input[type="checkbox"]:checked{
     transform: scale(1.5);
     margin-right: 10px;
-    color: green;
+    color: rgb(153, 214, 153);
 }
 input[type="text email"]:focus, input[type="password"]:focus{
     outline: none;
@@ -110,7 +110,7 @@ input[type="text email"]:valid, input[type="password"]:valid{
     border: 3px solid rgb(114, 231, 114);
 }
 input[type="text email"]:invalid, input[type="password"]:invalid{
-    border: 3px solid rgb(224, 112, 112);
+    border: 3px solid rgb(231, 166, 166);
 }
 footer{
     text-align: center;
