@@ -5,6 +5,12 @@ body{
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
 }
+h1{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 .container{
     width: 100%;
     margin-left: auto;
@@ -14,7 +20,8 @@ body{
     background-color: hsl(0, 0%, 96%);
     border-radius: 10px;
     margin-top: 10px;
-    text-align: center;
+    border: 5px solid rgb(218, 210, 210);
+    justify-content: flex-start;
 }
 .header, .footer{
     margin-left: auto;
@@ -28,5 +35,16 @@ body{
 }
 form{
     flex-direction: column;
-    padding: 10px;
+    padding: 20px;
+    justify-content: flex-start;
+}
+input[type="text email"], input[type="password"]{
+    font-size: 20px;
+    width: 100%;
+    font-weight: bolder;
+}
+.a-1{
+    margin-left: 140px;
+    text-decoration: none;
+    font-weight: bolder;
 }
