@@ -117,9 +117,21 @@ footer{
     margin-top: 10px;
     font-size: 14px;
     color: grey;
+    margin-left: auto;
+    margin-right: auto;
 }
 .join{
-    width: 100%;
     padding-top: 15px;
     padding-bottom: 10px;
+    background-color: rgba(45, 45, 219, 0.753);
+    color: white;
+    padding-left: 20px;
+}
+.home{
+    text-align: center;
+}
+.footer{
+    margin-left: auto;
+    width: 100%;
+    max-width: 400px;
 }
