@@ -118,3 +118,8 @@ footer{
     font-size: 14px;
     color: grey;
 }
+.join{
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
